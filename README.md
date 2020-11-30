@@ -13,5 +13,5 @@
 :construction: Experiments
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
 * [Model Viewer](https://adcimon.github.io/web-model-viewer/)
-* [SVG Waves](https://adcimon.github.io/web-experiments/svg-waves/)
+* [Waves](https://adcimon.github.io/web-experiments/svg-waves/)
 * [Mouse Animation](https://adcimon.github.io/web-experiments/mouse-animation/)
