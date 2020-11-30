@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adcimon/adcimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 :scroll: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
 :art: Shaders
@@ -22,5 +7,5 @@ Here are some ideas to get you started:
 * [Morph](https://github.com/adcimon/vertex-shader-simple-morph)
 * [Stencil](https://github.com/adcimon/stencil-buffer-4-item-box)
 
-:video_game: Do you want to play?
+:video_game: Games
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
