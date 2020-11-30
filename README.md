@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:scroll: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
+
+:video_game: Do you want to play?
+* [The night is dark](https://adcimon.github.io/the-night-is-dark/)
