@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:scroll: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
+:pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
 :hammer: Projects
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
