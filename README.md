@@ -4,6 +4,8 @@
 
 :hammer: Projects
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
+* [Unity Extension](https://github.com/adcimon/com.adcimon.unity-extension)
+* [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 
 :video_game: Games
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
