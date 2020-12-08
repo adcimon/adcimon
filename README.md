@@ -12,7 +12,7 @@
 
 :art: Shaders
 * [Bounce Effect](https://github.com/adcimon/vertex-shader-bounce-effect)
-* [Simple Morph](https://github.com/adcimon/vertex-shader-simple-morph)
+* [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
 * [Stencil Buffer](https://github.com/adcimon/stencil-buffer-4-item-box)
 
 :construction: Experiments
