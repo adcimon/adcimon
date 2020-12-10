@@ -17,6 +17,6 @@
 
 :construction: Experiments
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
-* [Model Viewer](https://adcimon.github.io/web-model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
+* [Model Viewer](https://adcimon.github.io/web-model-viewer/)
 * [Web Stuff](https://adcimon.github.io/web-experiments/)
