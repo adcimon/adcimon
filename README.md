@@ -15,6 +15,9 @@
 * [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
 * [Stencil Buffer](https://github.com/adcimon/stencil-buffer-4-item-box)
 
+:sparkles: VFX
+* [Mocap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
+
 :construction: Experiments
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
