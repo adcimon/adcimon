@@ -13,7 +13,7 @@
 :art: Shaders
 * [Bounce Effect](https://github.com/adcimon/vertex-shader-bounce-effect)
 * [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
-* [Stencil Buffer](https://github.com/adcimon/stencil-buffer-4-item-box)
+* [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
 :sparkles: VFX
 * [Mocap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
