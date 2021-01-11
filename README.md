@@ -16,7 +16,7 @@
 * [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
 :sparkles: VFX
-* [Mocap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
+* [MoCap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
 
 :construction: Experiments
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
