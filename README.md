@@ -1,5 +1,3 @@
-### Hi there 👋
-
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
 :hammer: Projects
