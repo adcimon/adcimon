@@ -25,3 +25,5 @@ I'm Adrián, a programmer specialized in CG, AI and RTC.
 * [Path Tracer](https://github.com/adcimon/path-tracer)
 * [Model Viewer](https://adcimon.github.io/web-model-viewer/)
 * [Web](https://adcimon.github.io/web-experiments/)
+
+[![Adcimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/anuraghazra/github-readme-stats)
