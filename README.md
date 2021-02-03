@@ -1,4 +1,4 @@
-:wave: :earth_americas:
+# :wave: :earth_americas:
 
 I'm Adrián, a programmer specialized in CG, AI and RTC.
 
