@@ -1,3 +1,7 @@
+:wave: :earth_americas:!
+
+I'm Adrián, a programmer specialized in CG, AI and RTC.
+
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
 :hammer: Projects
