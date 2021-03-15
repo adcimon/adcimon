@@ -6,7 +6,6 @@ I'm Adrián, a programmer specialized in CG, AI and RTC.
 
 :hammer: Projects
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
-* [Unity Extension](https://github.com/adcimon/com.adcimon.unity-extension)
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 
 :video_game: Games
