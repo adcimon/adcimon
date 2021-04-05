@@ -1,6 +1,6 @@
 # :wave: :earth_americas:
 
-I'm Adrián, a programmer specialized in computer graphics, artificial intelligence and real-time communications.
+I am Adrián, a programmer specialized in computer graphics, artificial intelligence and real-time communications.
 
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
