@@ -16,10 +16,8 @@ I am Adrián, a programmer specialized in computer graphics, artificial intellig
 * [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
 * [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
-:sparkles: VFX
-* [MoCap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
-
 :construction: Experiments
+* [MoCap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
 * [Model Viewer](https://adcimon.github.io/web-model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
