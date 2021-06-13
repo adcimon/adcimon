@@ -23,4 +23,4 @@ I am Adrián, a programmer specialized in computer graphics, artificial intellig
 * [Path Tracer](https://github.com/adcimon/path-tracer)
 * [Web](https://adcimon.github.io/web-experiments/)
 
-[![adcimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![adcimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/anuraghazra/github-readme-stats) -->
