@@ -1,6 +1,6 @@
 # :wave: :earth_americas:
 
-I am Adrián, a programmer specialized in 3D computer graphics and video streaming.
+Hi! I am Adrián, a programmer specialized in 3D computer graphics and video streaming.
 
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
