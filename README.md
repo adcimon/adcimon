@@ -1,9 +1,9 @@
 # :wave: :earth_americas:
 
-I am Adrián, a programmer specialized in 3D computer graphics and video streaming.
-💡 I love to work with creative technologies.
-🌱 I am currently learning a lot of Blender and WebRTC.
-🚧 I'm currently working on a secret videogame project.
+I am Adrián, a programmer specialized in 3D computer graphics and video streaming.<br>
+💡 I love to work with creative technologies.<br>
+🌱 I am currently learning a lot of Blender and WebRTC.<br>
+🚧 I'm currently working on a secret videogame project.<br>
 
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
