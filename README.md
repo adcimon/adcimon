@@ -25,4 +25,5 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 * [Web](https://adcimon.github.io/web-experiments/)
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/adcimon/)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adcimon&hide=html&layout=compact&theme=default)](https://github.com/adcimon/)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adcimon&hide=html)](https://github.com/adcimon/)
