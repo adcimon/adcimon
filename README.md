@@ -1,6 +1,6 @@
 # :wave: :earth_americas:
 
-I am Adrián, a programmer specialized in 3D computer graphics and video streaming.
+I am Adrián, a programmer specialized in 3D computer graphics and video streaming based in Valencia. I studied Computer Science and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/). Currently I am working at [Brainstorm3D](https://www.brainstorm3d.com/) doing graphics and real-time video streaming stuff.
 
 💡 I love to work with creative technologies where math and art blend.<br>
 🌱 I'm learning a lot of WebRTC and Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
