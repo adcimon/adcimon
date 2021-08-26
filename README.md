@@ -4,7 +4,7 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 
 💡 I love to work with creative technologies where math and art blend.<br>
 🌱 I'm learning a lot of WebRTC and Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
-🚧 I'm currently working on a secret videogame project :speak_no_evil:<br>
+🚧 I'm currently developing a secret videogame :speak_no_evil:<br>
 
 ## Repositories
 
