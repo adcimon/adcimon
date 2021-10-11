@@ -27,7 +27,7 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 :construction: Experiments
 * [MoCap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
-* [Model Viewer](https://adcimon.github.io/web-model-viewer/)
+* [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
 * [Web Stuff](https://adcimon.github.io/web-stuff/)
 
