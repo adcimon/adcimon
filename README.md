@@ -25,7 +25,7 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 * [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
 :construction: Experiments
-* [MoCap VFX](https://github.com/adcimon/unity-barracuda-mocap-vfx)
+* [MoCap VFX](https://github.com/adcimon/mocap-vfx)
 * [Mesh Deformer](https://github.com/adcimon/unity-job-system-mesh-deformer)
 * [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
