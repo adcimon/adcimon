@@ -21,7 +21,7 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 
 :art: Shaders
 * [Bounce Effect](https://github.com/adcimon/bounce-effect)
-* [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
+* [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
 :construction: Experiments
