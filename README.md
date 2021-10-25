@@ -20,7 +20,7 @@ I am Adrián, a programmer specialized in 3D computer graphics and video streami
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
 
 :art: Shaders
-* [Bounce Effect](https://github.com/adcimon/vertex-shader-bounce-effect)
+* [Bounce Effect](https://github.com/adcimon/bounce-effect)
 * [Morph Effect](https://github.com/adcimon/vertex-shader-morph-effect)
 * [Portal Room](https://github.com/adcimon/stencil-buffer-portal-room)
 
