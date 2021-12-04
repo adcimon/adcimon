@@ -6,8 +6,6 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 🌱 I'm learning a lot of WebRTC and Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
 🚧 I'm currently working on a secret videogame project :speak_no_evil:<br>
 
-## Repositories
-
 :computer: [Startpage](https://adcimon.github.io/startpage/)<br>
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
