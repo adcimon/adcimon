@@ -8,7 +8,7 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 
 ## Repositories
 
-:computer: [Start Page](https://adcimon.github.io/startpage/)
+:computer: [Start Page](https://adcimon.github.io/startpage/)<br>
 :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
 
 :hammer: Projects
