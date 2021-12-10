@@ -6,8 +6,8 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 🌱 I'm learning a lot of WebRTC and Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
 🚧 I'm currently working on a secret videogame project :speak_no_evil:<br>
 
-:computer: [Startpage](https://adcimon.github.io/startpage/)<br>
-:pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/)
+| :computer: [Startpage](https://adcimon.github.io/startpage/) | :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
+| - | - |
 
 :hammer: Projects
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
@@ -27,6 +27,7 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 * [MoCap VFX](https://github.com/adcimon/mocap-vfx)
 * [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
+* [Segmentation NDI](https://github.com/adcimon/segmentation-ndi)
 * [Web Stuff](https://adcimon.github.io/web-stuff/)
 
 <!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/adcimon/) -->
