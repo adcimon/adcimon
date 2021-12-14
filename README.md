@@ -21,7 +21,7 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 * [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/portal-room)
 
-:construction: Experiments
+:construction: Experimental
 * [AR Depth](https://github.com/adcimon/ar-depth)
 * [Mesh Deformer](https://github.com/adcimon/mesh-deformer)
 * [MoCap VFX](https://github.com/adcimon/mocap-vfx)
