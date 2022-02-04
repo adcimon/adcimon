@@ -28,7 +28,7 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics and video str
 * [MoCap VFX](https://github.com/adcimon/mocap-vfx)
 * [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
-* [Segmentation NDI](https://github.com/adcimon/segmentation-ndi)
+* [NDI Segmentation](https://github.com/adcimon/ndi-segmentation)
 * [Web Stuff](https://adcimon.github.io/web-stuff/)
 
 <!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/adcimon/) -->
