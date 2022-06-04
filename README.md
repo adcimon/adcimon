@@ -9,20 +9,20 @@ Hi! I am Adrián, a programmer specialized in 3D computer graphics, video stream
 | :computer: [Startpage](https://adcimon.github.io/startpage/) | :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - |
 
-:hammer: Projects
+## :hammer: Projects
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
 * [Shader Studio](https://adcimon.github.io/shader-studio/)
 
-:video_game: Games
+## :video_game: Games
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
 
-:art: Shaders
+## :art: Shaders
 * [Bounce Effect](https://github.com/adcimon/bounce-effect)
 * [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/portal-room)
 
-:construction: Experimental
+## :construction: Experimental
 * [AR Depth](https://github.com/adcimon/ar-depth)
 * [Mesh Deformer](https://github.com/adcimon/mesh-deformer)
 * [MNIST PyTorch](https://github.com/adcimon/mnist-pytorch)
