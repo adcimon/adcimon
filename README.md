@@ -3,8 +3,8 @@
 Hi! I am Adrián, a programmer specialized in computer graphics, video streaming and web development from Valencia. I studied Computer Science and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/). Currently I am working at [Brainstorm3D](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.
 
 💡 I love to work with creative technologies where math and art blend.<br>
-🌱 I'm learning a lot of Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
-🚧 I'm currently working on a secret videogame project :speak_no_evil:<br>
+🌱 Learning a lot of Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
+🚧 Currently working on a secret videogame project :speak_no_evil:<br>
 
 | :computer: [Startpage](https://adcimon.github.io/startpage/) | :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - |
