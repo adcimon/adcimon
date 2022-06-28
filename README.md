@@ -6,7 +6,7 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 🌱 Learning a lot of Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
 🚧 Currently working on a secret videogame project :speak_no_evil:<br>
 
-| 💻 [Startpage](https://adcimon.github.io/startpage/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) | 📜 [Resume](https://adcimon.github.io/) |
+| 💻 [Startpage](https://adcimon.github.io/startpage/) | 📜 [Resume](https://adcimon.github.io/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - | - |
 
 ## 🔨 Projects
