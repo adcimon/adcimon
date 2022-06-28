@@ -1,4 +1,4 @@
-# :wave: :earth_americas:
+# 👋 🌎
 
 Hi! I am Adrián, a programmer specialized in computer graphics, video streaming and web development from Valencia. I studied Computer Science and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/). Currently I am working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.
 
@@ -6,23 +6,23 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 🌱 Learning a lot of Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
 🚧 Currently working on a secret videogame project :speak_no_evil:<br>
 
-| :computer: [Startpage](https://adcimon.github.io/startpage/) | :pushpin: [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
-| - | - |
+| 💻 [Startpage](https://adcimon.github.io/startpage/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) | 📜 [Resume](https://adcimon.github.io/) |
+| - | - | - |
 
-## :hammer: Projects
+## 🔨 Projects
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
 * [Shader Studio](https://adcimon.github.io/shader-studio/)
 
-## :video_game: Games
+## 🎮 Games
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
 
-## :art: Shaders
+## 🎨 Shaders
 * [Bounce Effect](https://github.com/adcimon/bounce-effect)
 * [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/portal-room)
 
-## :construction: Demos
+## 🚧 Demos
 * [AR Depth](https://github.com/adcimon/ar-depth)
 * [Mesh Deformer](https://github.com/adcimon/mesh-deformer)
 * [MNIST PyTorch](https://github.com/adcimon/mnist-pytorch)
