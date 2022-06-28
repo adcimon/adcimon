@@ -22,7 +22,7 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 * [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/portal-room)
 
-## :construction: Experimental
+## :construction: Demos
 * [AR Depth](https://github.com/adcimon/ar-depth)
 * [Mesh Deformer](https://github.com/adcimon/mesh-deformer)
 * [MNIST PyTorch](https://github.com/adcimon/mnist-pytorch)
