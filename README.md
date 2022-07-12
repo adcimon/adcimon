@@ -1,10 +1,10 @@
 # 👋 🌎
 
-Hi! I am Adrián, a programmer specialized in computer graphics, video streaming and web development from Valencia. I studied Computer Science and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/). Currently I am working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.
+Hi! I am Adrián, a programmer specialized in computer graphics, video streaming and web development from Valencia. I studied Computer Science and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/).
 
 💡 I love to work with creative technologies where math and art blend.<br>
 🌱 Learning a lot of Blender [:doughnut:](https://github.com/adcimon/blender-donut#blender-donut)<br>
-🚧 Currently working on a secret videogame project :speak_no_evil:<br>
+🚧 Currently working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.<br>
 
 | 💻 [Startpage](https://adcimon.github.io/startpage/) | 📜 [Resume](https://adcimon.github.io/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - | - |
