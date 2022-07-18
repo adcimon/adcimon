@@ -4,7 +4,7 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 
 💡 I love to work with creative technologies where math and art blend.<br>
 🌱 Learning a lot of Blender [🍩](https://github.com/adcimon/blender-donut#blender-donut)<br>
-🚧 Currently working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.<br>
+🛠 Currently working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.<br>
 
 | 💻 [Startpage](https://adcimon.github.io/startpage/) | 📜 [Resume](https://adcimon.github.io/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - | - |
