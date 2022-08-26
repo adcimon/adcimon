@@ -13,7 +13,6 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 * [Filter Studio](https://github.com/adcimon/filter-studio-release)
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
-* [Shader Studio](https://adcimon.github.io/shader-studio/)
 
 ## 🎮 Games
 * [The night is dark](https://adcimon.github.io/the-night-is-dark/)
