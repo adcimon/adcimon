@@ -16,7 +16,7 @@ Hi! I am Adrián, a programmer specialized in computer graphics, video streaming
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
 
 ## 🎮 Games
-* [GameOff 2018: The night is dark](https://adcimon.github.io/the-night-is-dark/)
+* [Game Off 2018: The night is dark](https://adcimon.github.io/the-night-is-dark/)
 
 ## 🎨 Shaders
 * [Bounce Effect](https://github.com/adcimon/bounce-effect)
