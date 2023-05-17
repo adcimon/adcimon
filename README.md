@@ -1,6 +1,6 @@
 # 👋 🌎
 
-Hi! I am Adrián, a programmer specialized in computer graphics, video streaming and web development from Valencia, Spain. I studied Computer Science and Engineering, and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/).
+Hi! I am Adrián, a software engineer specialized in computer graphics, video streaming and web development from Valencia, Spain. I studied Computer Science and Engineering, and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/).
 
 💡 I love to work with creative technologies where math and art blend.<br>
 🌱 Learning a lot of Blender [🍩](https://github.com/adcimon/blender-donut#blender-donut)<br>
