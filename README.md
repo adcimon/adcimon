@@ -32,7 +32,7 @@ Hi! I am Adrián, a software engineer specialized in computer graphics, video st
 * [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [NDI Segmentation](https://github.com/adcimon/ndi-segmentation)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
-* [Unity SRS Template](https://github.com/adcimon/unity-srs-template)
+* [Unity SRS Test](https://github.com/adcimon/unity-srs-test)
 * [Web Stuff](https://adcimon.github.io/web-stuff/)
 
 <!-- [![Statistics](https://github-readme-stats.vercel.app/api?username=adcimon)](https://github.com/adcimon/) -->
