@@ -22,6 +22,7 @@ Hi! I am Adrián, a software engineer specialized in computer graphics, video st
 * [Bounce Effect](https://github.com/adcimon/bounce-effect)
 * [Morph Effect](https://github.com/adcimon/morph-effect)
 * [Portal Room](https://github.com/adcimon/portal-room)
+* [Stylized Foliage](https://github.com/adcimon/stylized-foliage)
 
 ## 🚧 Demos
 * [AR Depth](https://github.com/adcimon/ar-depth)
