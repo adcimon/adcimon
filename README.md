@@ -2,8 +2,8 @@
 
 Hi! I am Adrián, a software engineer specialized in computer graphics, video streaming and web development from Valencia, Spain. I studied Computer Science and Engineering, and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/).
 
-💡 I love to work with creative technologies where math and art blend.<br>
-🌱 Learning a lot of Blender [🍩](https://github.com/adcimon/blender-donut#blender-donut)<br>
+💡 Passionate about working with technologies that have a positive impact on users and projects that present a challenging opportunity to grow.<br>
+🌱 Learning Blender [🍩](https://github.com/adcimon/blender-donut#blender-donut)<br>
 🛠 Currently working at [Brainstorm Multimedia](https://www.brainstorm3d.com/) doing real-time graphics and streaming stuff.<br>
 
 | 💻 [Startpage](https://adcimon.github.io/startpage/) | 📜 [Resume](https://adcimon.github.io/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
