@@ -10,7 +10,9 @@ Hi! I am Adrián, a software engineer specialized in computer graphics, video st
 | - | - | - |
 
 ## 🔨 Projects
+* [Auth Server](https://github.com/adcimon/auth-server)
 * [Filter Studio](https://github.com/adcimon/filter-studio-release)
+* [Lobby Server](https://github.com/adcimon/lobby-server)
 * [MDX Importer](https://github.com/adcimon/com.adcimon.mdx-importer)
 * [Raymarching Library](https://github.com/adcimon/com.adcimon.raymarching)
 
