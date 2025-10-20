@@ -2,9 +2,9 @@
 
 Hi! I am Adrián, a software engineer specialized in computer graphics, media streaming and web development from Valencia, Spain. I studied Computer Science and Engineering, and a Master's Degree in Artificial Intelligence, Pattern Recognition and Digital Imaging at [UPV](https://www.upv.es/).
 
-💡 Passionate about exploring AI to enhance development workflows.<br>
+💡 Exploring AI to enhance development workflows.<br>
 🌱 Learning [Media over QUIC](https://moq.dev/).<br>
-🛠 Currently working at [Brainstorm Multimedia](https://www.brainstorm3d.com/).<br>
+🛠 Working at [Brainstorm Multimedia](https://www.brainstorm3d.com/).<br>
 
 | 💻 [Startpage](https://adcimon.github.io/startpage/) | 📜 [Resume](https://adcimon.github.io/) | 📌 [Cheatsheets](https://adcimon.github.io/cheatsheets/) |
 | - | - | - |
