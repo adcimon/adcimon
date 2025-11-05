@@ -27,6 +27,7 @@ Hi! I am Adrián, a software engineer specialized in computer graphics, media st
 * [Stylized Foliage](https://github.com/adcimon/stylized-foliage)
 
 ## 📝 Templates
+* [App Template](https://github.com/adcimon/app-template)
 * [Frontend Template](https://github.com/adcimon/frontend-template)
 * [WebRTC Template](https://github.com/adcimon/webrtc-template)
 
