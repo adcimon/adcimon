@@ -39,6 +39,7 @@ Hi! I am Adrián, a software engineer specialized in computer graphics, media st
 * [Model Viewer](https://adcimon.github.io/model-viewer/)
 * [NDI Segmentation](https://github.com/adcimon/ndi-segmentation)
 * [Path Tracer](https://github.com/adcimon/path-tracer)
+* [TRTC Bridge](https://github.com/adcimon/trtcbridge)
 * [Unity SRS Test](https://github.com/adcimon/unity-srs-test)
 * [Web Stuff](https://adcimon.github.io/web-stuff/)
 
